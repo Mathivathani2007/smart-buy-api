@@ -1,0 +1,2080 @@
+{
+  "mode": "demo",
+  "note": "Sample marketplace data for demonstrations. Replace with official or permitted marketplace APIs before production use.",
+  "products": [
+    {
+      "platform": "Amazon",
+      "product_name": "Sony WH-CH520 Wireless Headphones",
+      "brand": "Sony",
+      "category": "Gadgets",
+      "price": 2499,
+      "original_price": 4490,
+      "rating": 4.5,
+      "review_count": 12840,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.2",
+        "Battery": "Up to 50 hours",
+        "Type": "On-ear headphones"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Sony WH-CH520 Wireless Headphones",
+      "brand": "Sony",
+      "category": "Gadgets",
+      "price": 2400,
+      "original_price": 4490,
+      "rating": 4.5,
+      "review_count": 12840,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.2",
+        "Battery": "Up to 50 hours",
+        "Type": "On-ear headphones"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Sony WH-CH520 Wireless Headphones",
+      "brand": "Sony",
+      "category": "Gadgets",
+      "price": 2700,
+      "original_price": 4490,
+      "rating": 4.5,
+      "review_count": 12840,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.2",
+        "Battery": "Up to 50 hours",
+        "Type": "On-ear headphones"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Sony WH-CH520 Wireless Headphones",
+      "brand": "Sony",
+      "category": "Gadgets",
+      "price": 2200,
+      "original_price": 4490,
+      "rating": 4.5,
+      "review_count": 12840,
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.2",
+        "Battery": "Up to 50 hours",
+        "Type": "On-ear headphones"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Samsung Galaxy Tab A9+",
+      "brand": "Samsung",
+      "category": "Gadgets",
+      "price": 18999,
+      "original_price": 22999,
+      "rating": 4.4,
+      "review_count": 6420,
+      "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "11 inch",
+        "Storage": "128 GB",
+        "Connectivity": "Wi-Fi"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Samsung Galaxy Tab A9+",
+      "brand": "Samsung",
+      "category": "Gadgets",
+      "price": 18240,
+      "original_price": 22999,
+      "rating": 4.4,
+      "review_count": 6420,
+      "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "11 inch",
+        "Storage": "128 GB",
+        "Connectivity": "Wi-Fi"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Samsung Galaxy Tab A9+",
+      "brand": "Samsung",
+      "category": "Gadgets",
+      "price": 20520,
+      "original_price": 22999,
+      "rating": 4.4,
+      "review_count": 6420,
+      "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "11 inch",
+        "Storage": "128 GB",
+        "Connectivity": "Wi-Fi"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Samsung Galaxy Tab A9+",
+      "brand": "Samsung",
+      "category": "Gadgets",
+      "price": 16720,
+      "original_price": 22999,
+      "rating": 4.4,
+      "review_count": 6420,
+      "image_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "11 inch",
+        "Storage": "128 GB",
+        "Connectivity": "Wi-Fi"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Logitech MX Master 3S Mouse",
+      "brand": "Logitech",
+      "category": "Gadgets",
+      "price": 6999,
+      "original_price": 8995,
+      "rating": 4.6,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth and USB",
+        "DPI": "8000",
+        "Battery": "70 days"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Logitech MX Master 3S Mouse",
+      "brand": "Logitech",
+      "category": "Gadgets",
+      "price": 6720,
+      "original_price": 8995,
+      "rating": 4.6,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth and USB",
+        "DPI": "8000",
+        "Battery": "70 days"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Logitech MX Master 3S Mouse",
+      "brand": "Logitech",
+      "category": "Gadgets",
+      "price": 7560,
+      "original_price": 8995,
+      "rating": 4.6,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth and USB",
+        "DPI": "8000",
+        "Battery": "70 days"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Logitech MX Master 3S Mouse",
+      "brand": "Logitech",
+      "category": "Gadgets",
+      "price": 6160,
+      "original_price": 8995,
+      "rating": 4.6,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth and USB",
+        "DPI": "8000",
+        "Battery": "70 days"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Wakefit Memory Foam Pillow",
+      "brand": "Wakefit",
+      "category": "Furniture and Home",
+      "price": 899,
+      "original_price": 1499,
+      "rating": 4.3,
+      "review_count": 18200,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Memory foam",
+        "Size": "Standard",
+        "Cover": "Washable"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Wakefit Memory Foam Pillow",
+      "brand": "Wakefit",
+      "category": "Furniture and Home",
+      "price": 860,
+      "original_price": 1499,
+      "rating": 4.3,
+      "review_count": 18200,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Memory foam",
+        "Size": "Standard",
+        "Cover": "Washable"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Wakefit Memory Foam Pillow",
+      "brand": "Wakefit",
+      "category": "Furniture and Home",
+      "price": 970,
+      "original_price": 1499,
+      "rating": 4.3,
+      "review_count": 18200,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Memory foam",
+        "Size": "Standard",
+        "Cover": "Washable"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Wakefit Memory Foam Pillow",
+      "brand": "Wakefit",
+      "category": "Furniture and Home",
+      "price": 790,
+      "original_price": 1499,
+      "rating": 4.3,
+      "review_count": 18200,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Memory foam",
+        "Size": "Standard",
+        "Cover": "Washable"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Ikea Linnmon Study Table",
+      "brand": "Ikea",
+      "category": "Furniture",
+      "price": 5490,
+      "original_price": 6990,
+      "rating": 4.4,
+      "review_count": 3150,
+      "image_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Width": "120 cm",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Ikea Linnmon Study Table",
+      "brand": "Ikea",
+      "category": "Furniture",
+      "price": 5270,
+      "original_price": 6990,
+      "rating": 4.4,
+      "review_count": 3150,
+      "image_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Width": "120 cm",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Ikea Linnmon Study Table",
+      "brand": "Ikea",
+      "category": "Furniture",
+      "price": 5930,
+      "original_price": 6990,
+      "rating": 4.4,
+      "review_count": 3150,
+      "image_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Width": "120 cm",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Ikea Linnmon Study Table",
+      "brand": "Ikea",
+      "category": "Furniture",
+      "price": 4830,
+      "original_price": 6990,
+      "rating": 4.4,
+      "review_count": 3150,
+      "image_url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Width": "120 cm",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Milton Thermosteel Flask",
+      "brand": "Milton",
+      "category": "Kitchen",
+      "price": 799,
+      "original_price": 1199,
+      "rating": 4.5,
+      "review_count": 9870,
+      "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "1 litre",
+        "Material": "Stainless steel",
+        "Insulation": "24 hours"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Milton Thermosteel Flask",
+      "brand": "Milton",
+      "category": "Kitchen",
+      "price": 770,
+      "original_price": 1199,
+      "rating": 4.5,
+      "review_count": 9870,
+      "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "1 litre",
+        "Material": "Stainless steel",
+        "Insulation": "24 hours"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Milton Thermosteel Flask",
+      "brand": "Milton",
+      "category": "Kitchen",
+      "price": 860,
+      "original_price": 1199,
+      "rating": 4.5,
+      "review_count": 9870,
+      "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "1 litre",
+        "Material": "Stainless steel",
+        "Insulation": "24 hours"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Milton Thermosteel Flask",
+      "brand": "Milton",
+      "category": "Kitchen",
+      "price": 700,
+      "original_price": 1199,
+      "rating": 4.5,
+      "review_count": 9870,
+      "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "1 litre",
+        "Material": "Stainless steel",
+        "Insulation": "24 hours"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "American Tourister Cabin Luggage",
+      "brand": "American Tourister",
+      "category": "Travel",
+      "price": 3299,
+      "original_price": 5999,
+      "rating": 4.3,
+      "review_count": 7650,
+      "image_url": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "38 litres",
+        "Material": "Polycarbonate",
+        "Warranty": "3 years"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "American Tourister Cabin Luggage",
+      "brand": "American Tourister",
+      "category": "Travel",
+      "price": 3170,
+      "original_price": 5999,
+      "rating": 4.3,
+      "review_count": 7650,
+      "image_url": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "38 litres",
+        "Material": "Polycarbonate",
+        "Warranty": "3 years"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "American Tourister Cabin Luggage",
+      "brand": "American Tourister",
+      "category": "Travel",
+      "price": 3560,
+      "original_price": 5999,
+      "rating": 4.3,
+      "review_count": 7650,
+      "image_url": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "38 litres",
+        "Material": "Polycarbonate",
+        "Warranty": "3 years"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "American Tourister Cabin Luggage",
+      "brand": "American Tourister",
+      "category": "Travel",
+      "price": 2900,
+      "original_price": 5999,
+      "rating": 4.3,
+      "review_count": 7650,
+      "image_url": "https://images.unsplash.com/photo-1565026057447-bc90a3dceb87?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "38 litres",
+        "Material": "Polycarbonate",
+        "Warranty": "3 years"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "boAt Rockerz 450 Bluetooth Headphones",
+      "brand": "boAt",
+      "category": "Gadgets",
+      "price": 1500,
+      "original_price": 3990,
+      "rating": 4.2,
+      "review_count": 45800,
+      "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "Up to 15 hours",
+        "Type": "Over-ear headphones"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "boAt Rockerz 450 Bluetooth Headphones",
+      "brand": "boAt",
+      "category": "Gadgets",
+      "price": 1499,
+      "original_price": 3990,
+      "rating": 4.2,
+      "review_count": 45800,
+      "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "Up to 15 hours",
+        "Type": "Over-ear headphones"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "boAt Rockerz 450 Bluetooth Headphones",
+      "brand": "boAt",
+      "category": "Gadgets",
+      "price": 1620,
+      "original_price": 3990,
+      "rating": 4.2,
+      "review_count": 45800,
+      "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "Up to 15 hours",
+        "Type": "Over-ear headphones"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "boAt Rockerz 450 Bluetooth Headphones",
+      "brand": "boAt",
+      "category": "Gadgets",
+      "price": 1320,
+      "original_price": 3990,
+      "rating": 4.2,
+      "review_count": 45800,
+      "image_url": "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "Up to 15 hours",
+        "Type": "Over-ear headphones"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "HP 15s Ryzen 5 Laptop",
+      "brand": "HP",
+      "category": "Gadgets",
+      "price": 45990,
+      "original_price": 58990,
+      "rating": 4.3,
+      "review_count": 3850,
+      "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "16 GB",
+        "Storage": "512 GB SSD"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "HP 15s Ryzen 5 Laptop",
+      "brand": "HP",
+      "category": "Gadgets",
+      "price": 45990,
+      "original_price": 58990,
+      "rating": 4.3,
+      "review_count": 3850,
+      "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "16 GB",
+        "Storage": "512 GB SSD"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "HP 15s Ryzen 5 Laptop",
+      "brand": "HP",
+      "category": "Gadgets",
+      "price": 49670,
+      "original_price": 58990,
+      "rating": 4.3,
+      "review_count": 3850,
+      "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "16 GB",
+        "Storage": "512 GB SSD"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "HP 15s Ryzen 5 Laptop",
+      "brand": "HP",
+      "category": "Gadgets",
+      "price": 40470,
+      "original_price": 58990,
+      "rating": 4.3,
+      "review_count": 3850,
+      "image_url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Processor": "AMD Ryzen 5",
+        "RAM": "16 GB",
+        "Storage": "512 GB SSD"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Realme Smartwatch 3 Pro",
+      "brand": "Realme",
+      "category": "Gadgets",
+      "price": 4000,
+      "original_price": 5999,
+      "rating": 4.1,
+      "review_count": 2960,
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "1.78 inch AMOLED",
+        "Battery": "10 days",
+        "Water resistance": "IP68"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Realme Smartwatch 3 Pro",
+      "brand": "Realme",
+      "category": "Gadgets",
+      "price": 3999,
+      "original_price": 5999,
+      "rating": 4.1,
+      "review_count": 2960,
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "1.78 inch AMOLED",
+        "Battery": "10 days",
+        "Water resistance": "IP68"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Realme Smartwatch 3 Pro",
+      "brand": "Realme",
+      "category": "Gadgets",
+      "price": 4320,
+      "original_price": 5999,
+      "rating": 4.1,
+      "review_count": 2960,
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "1.78 inch AMOLED",
+        "Battery": "10 days",
+        "Water resistance": "IP68"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Realme Smartwatch 3 Pro",
+      "brand": "Realme",
+      "category": "Gadgets",
+      "price": 3520,
+      "original_price": 5999,
+      "rating": 4.1,
+      "review_count": 2960,
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Display": "1.78 inch AMOLED",
+        "Battery": "10 days",
+        "Water resistance": "IP68"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Nilkamal Office Chair",
+      "brand": "Nilkamal",
+      "category": "Furniture",
+      "price": 7500,
+      "original_price": 10999,
+      "rating": 4.0,
+      "review_count": 1790,
+      "image_url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Mesh back",
+        "Adjustments": "Height and tilt",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Nilkamal Office Chair",
+      "brand": "Nilkamal",
+      "category": "Furniture",
+      "price": 7499,
+      "original_price": 10999,
+      "rating": 4.0,
+      "review_count": 1790,
+      "image_url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Mesh back",
+        "Adjustments": "Height and tilt",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Nilkamal Office Chair",
+      "brand": "Nilkamal",
+      "category": "Furniture",
+      "price": 8100,
+      "original_price": 10999,
+      "rating": 4.0,
+      "review_count": 1790,
+      "image_url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Mesh back",
+        "Adjustments": "Height and tilt",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Nilkamal Office Chair",
+      "brand": "Nilkamal",
+      "category": "Furniture",
+      "price": 6600,
+      "original_price": 10999,
+      "rating": 4.0,
+      "review_count": 1790,
+      "image_url": "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Mesh back",
+        "Adjustments": "Height and tilt",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Urban Ladder Bookshelf",
+      "brand": "Urban Ladder",
+      "category": "Furniture",
+      "price": 9000,
+      "original_price": 12999,
+      "rating": 4.4,
+      "review_count": 920,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Solid wood",
+        "Shelves": "5",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Urban Ladder Bookshelf",
+      "brand": "Urban Ladder",
+      "category": "Furniture",
+      "price": 8999,
+      "original_price": 12999,
+      "rating": 4.4,
+      "review_count": 920,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Solid wood",
+        "Shelves": "5",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Urban Ladder Bookshelf",
+      "brand": "Urban Ladder",
+      "category": "Furniture",
+      "price": 9720,
+      "original_price": 12999,
+      "rating": 4.4,
+      "review_count": 920,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Solid wood",
+        "Shelves": "5",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Urban Ladder Bookshelf",
+      "brand": "Urban Ladder",
+      "category": "Furniture",
+      "price": 7920,
+      "original_price": 12999,
+      "rating": 4.4,
+      "review_count": 920,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Solid wood",
+        "Shelves": "5",
+        "Assembly": "Required"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Prestige Induction Cooktop",
+      "brand": "Prestige",
+      "category": "Kitchen",
+      "price": 2200,
+      "original_price": 3195,
+      "rating": 4.2,
+      "review_count": 11400,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Power": "1600 W",
+        "Controls": "Touch panel",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Prestige Induction Cooktop",
+      "brand": "Prestige",
+      "category": "Kitchen",
+      "price": 2199,
+      "original_price": 3195,
+      "rating": 4.2,
+      "review_count": 11400,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Power": "1600 W",
+        "Controls": "Touch panel",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Prestige Induction Cooktop",
+      "brand": "Prestige",
+      "category": "Kitchen",
+      "price": 2370,
+      "original_price": 3195,
+      "rating": 4.2,
+      "review_count": 11400,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Power": "1600 W",
+        "Controls": "Touch panel",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Prestige Induction Cooktop",
+      "brand": "Prestige",
+      "category": "Kitchen",
+      "price": 1940,
+      "original_price": 3195,
+      "rating": 4.2,
+      "review_count": 11400,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Power": "1600 W",
+        "Controls": "Touch panel",
+        "Warranty": "1 year"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Wildcraft Laptop Backpack",
+      "brand": "Wildcraft",
+      "category": "Travel",
+      "price": 1300,
+      "original_price": 2499,
+      "rating": 4.4,
+      "review_count": 8670,
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "32 litres",
+        "Laptop size": "15.6 inch",
+        "Material": "Water resistant"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Wildcraft Laptop Backpack",
+      "brand": "Wildcraft",
+      "category": "Travel",
+      "price": 1299,
+      "original_price": 2499,
+      "rating": 4.4,
+      "review_count": 8670,
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "32 litres",
+        "Laptop size": "15.6 inch",
+        "Material": "Water resistant"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Wildcraft Laptop Backpack",
+      "brand": "Wildcraft",
+      "category": "Travel",
+      "price": 1400,
+      "original_price": 2499,
+      "rating": 4.4,
+      "review_count": 8670,
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "32 litres",
+        "Laptop size": "15.6 inch",
+        "Material": "Water resistant"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Wildcraft Laptop Backpack",
+      "brand": "Wildcraft",
+      "category": "Travel",
+      "price": 1140,
+      "original_price": 2499,
+      "rating": 4.4,
+      "review_count": 8670,
+      "image_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Capacity": "32 litres",
+        "Laptop size": "15.6 inch",
+        "Material": "Water resistant"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Puma Running Shoes",
+      "brand": "Puma",
+      "category": "Fashion",
+      "price": 2400,
+      "original_price": 4999,
+      "rating": 4.3,
+      "review_count": 6240,
+      "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Sole": "Rubber",
+        "Closure": "Lace-up",
+        "Use": "Running"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Puma Running Shoes",
+      "brand": "Puma",
+      "category": "Fashion",
+      "price": 2399,
+      "original_price": 4999,
+      "rating": 4.3,
+      "review_count": 6240,
+      "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Sole": "Rubber",
+        "Closure": "Lace-up",
+        "Use": "Running"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Puma Running Shoes",
+      "brand": "Puma",
+      "category": "Fashion",
+      "price": 2590,
+      "original_price": 4999,
+      "rating": 4.3,
+      "review_count": 6240,
+      "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Sole": "Rubber",
+        "Closure": "Lace-up",
+        "Use": "Running"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Puma Running Shoes",
+      "brand": "Puma",
+      "category": "Fashion",
+      "price": 2110,
+      "original_price": 4999,
+      "rating": 4.3,
+      "review_count": 6240,
+      "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Sole": "Rubber",
+        "Closure": "Lace-up",
+        "Use": "Running"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Roadster Denim Jacket",
+      "brand": "Roadster",
+      "category": "Fashion",
+      "price": 1800,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 3280,
+      "image_url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton denim",
+        "Fit": "Regular",
+        "Wash": "Mid blue"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Roadster Denim Jacket",
+      "brand": "Roadster",
+      "category": "Fashion",
+      "price": 1730,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 3280,
+      "image_url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton denim",
+        "Fit": "Regular",
+        "Wash": "Mid blue"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Roadster Denim Jacket",
+      "brand": "Roadster",
+      "category": "Fashion",
+      "price": 1799,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 3280,
+      "image_url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton denim",
+        "Fit": "Regular",
+        "Wash": "Mid blue"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Roadster Denim Jacket",
+      "brand": "Roadster",
+      "category": "Fashion",
+      "price": 1580,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 3280,
+      "image_url": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton denim",
+        "Fit": "Regular",
+        "Wash": "Mid blue"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Adidas Grand Court Sneakers",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 3200,
+      "original_price": 5999,
+      "rating": 4.5,
+      "review_count": 5160,
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Upper": "Synthetic",
+        "Sole": "Rubber",
+        "Closure": "Lace-up"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Adidas Grand Court Sneakers",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 3070,
+      "original_price": 5999,
+      "rating": 4.5,
+      "review_count": 5160,
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Upper": "Synthetic",
+        "Sole": "Rubber",
+        "Closure": "Lace-up"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Adidas Grand Court Sneakers",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 3199,
+      "original_price": 5999,
+      "rating": 4.5,
+      "review_count": 5160,
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Upper": "Synthetic",
+        "Sole": "Rubber",
+        "Closure": "Lace-up"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Adidas Grand Court Sneakers",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "price": 2820,
+      "original_price": 5999,
+      "rating": 4.5,
+      "review_count": 5160,
+      "image_url": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Upper": "Synthetic",
+        "Sole": "Rubber",
+        "Closure": "Lace-up"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "W for Woman Cotton Kurta",
+      "brand": "W for Woman",
+      "category": "Fashion",
+      "price": 1300,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 1870,
+      "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton",
+        "Pattern": "Printed",
+        "Sleeve": "Three quarter"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "W for Woman Cotton Kurta",
+      "brand": "W for Woman",
+      "category": "Fashion",
+      "price": 1250,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 1870,
+      "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton",
+        "Pattern": "Printed",
+        "Sleeve": "Three quarter"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "W for Woman Cotton Kurta",
+      "brand": "W for Woman",
+      "category": "Fashion",
+      "price": 1299,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 1870,
+      "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton",
+        "Pattern": "Printed",
+        "Sleeve": "Three quarter"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "W for Woman Cotton Kurta",
+      "brand": "W for Woman",
+      "category": "Fashion",
+      "price": 1140,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 1870,
+      "image_url": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton",
+        "Pattern": "Printed",
+        "Sleeve": "Three quarter"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Allen Solly Formal Shirt",
+      "brand": "Allen Solly",
+      "category": "Fashion",
+      "price": 1400,
+      "original_price": 2799,
+      "rating": 4.3,
+      "review_count": 2410,
+      "image_url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton blend",
+        "Fit": "Slim",
+        "Collar": "Spread"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Allen Solly Formal Shirt",
+      "brand": "Allen Solly",
+      "category": "Fashion",
+      "price": 1340,
+      "original_price": 2799,
+      "rating": 4.3,
+      "review_count": 2410,
+      "image_url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton blend",
+        "Fit": "Slim",
+        "Collar": "Spread"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Allen Solly Formal Shirt",
+      "brand": "Allen Solly",
+      "category": "Fashion",
+      "price": 1399,
+      "original_price": 2799,
+      "rating": 4.3,
+      "review_count": 2410,
+      "image_url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton blend",
+        "Fit": "Slim",
+        "Collar": "Spread"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Allen Solly Formal Shirt",
+      "brand": "Allen Solly",
+      "category": "Fashion",
+      "price": 1230,
+      "original_price": 2799,
+      "rating": 4.3,
+      "review_count": 2410,
+      "image_url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton blend",
+        "Fit": "Slim",
+        "Collar": "Spread"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Lavie Structured Handbag",
+      "brand": "Lavie",
+      "category": "Fashion",
+      "price": 2000,
+      "original_price": 3999,
+      "rating": 4.4,
+      "review_count": 3560,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Vegan leather",
+        "Compartments": "3",
+        "Strap": "Adjustable"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Lavie Structured Handbag",
+      "brand": "Lavie",
+      "category": "Fashion",
+      "price": 1920,
+      "original_price": 3999,
+      "rating": 4.4,
+      "review_count": 3560,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Vegan leather",
+        "Compartments": "3",
+        "Strap": "Adjustable"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Lavie Structured Handbag",
+      "brand": "Lavie",
+      "category": "Fashion",
+      "price": 1999,
+      "original_price": 3999,
+      "rating": 4.4,
+      "review_count": 3560,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Vegan leather",
+        "Compartments": "3",
+        "Strap": "Adjustable"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Lavie Structured Handbag",
+      "brand": "Lavie",
+      "category": "Fashion",
+      "price": 1760,
+      "original_price": 3999,
+      "rating": 4.4,
+      "review_count": 3560,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Vegan leather",
+        "Compartments": "3",
+        "Strap": "Adjustable"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Raymond Cotton Trousers",
+      "brand": "Raymond",
+      "category": "Fashion",
+      "price": 1900,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 1320,
+      "image_url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton stretch",
+        "Fit": "Slim",
+        "Pockets": "4"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Raymond Cotton Trousers",
+      "brand": "Raymond",
+      "category": "Fashion",
+      "price": 1820,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 1320,
+      "image_url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton stretch",
+        "Fit": "Slim",
+        "Pockets": "4"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Raymond Cotton Trousers",
+      "brand": "Raymond",
+      "category": "Fashion",
+      "price": 1899,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 1320,
+      "image_url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton stretch",
+        "Fit": "Slim",
+        "Pockets": "4"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Raymond Cotton Trousers",
+      "brand": "Raymond",
+      "category": "Fashion",
+      "price": 1670,
+      "original_price": 3499,
+      "rating": 4.2,
+      "review_count": 1320,
+      "image_url": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Cotton stretch",
+        "Fit": "Slim",
+        "Pockets": "4"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Fossil Analog Watch",
+      "brand": "Fossil",
+      "category": "Accessories",
+      "price": 7500,
+      "original_price": 11995,
+      "rating": 4.5,
+      "review_count": 950,
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Movement": "Quartz",
+        "Strap": "Leather",
+        "Water resistance": "5 ATM"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Fossil Analog Watch",
+      "brand": "Fossil",
+      "category": "Accessories",
+      "price": 7200,
+      "original_price": 11995,
+      "rating": 4.5,
+      "review_count": 950,
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Movement": "Quartz",
+        "Strap": "Leather",
+        "Water resistance": "5 ATM"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Fossil Analog Watch",
+      "brand": "Fossil",
+      "category": "Accessories",
+      "price": 7499,
+      "original_price": 11995,
+      "rating": 4.5,
+      "review_count": 950,
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Movement": "Quartz",
+        "Strap": "Leather",
+        "Water resistance": "5 ATM"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Fossil Analog Watch",
+      "brand": "Fossil",
+      "category": "Accessories",
+      "price": 6600,
+      "original_price": 11995,
+      "rating": 4.5,
+      "review_count": 950,
+      "image_url": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Movement": "Quartz",
+        "Strap": "Leather",
+        "Water resistance": "5 ATM"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Nike Dri-FIT Sports T-shirt",
+      "brand": "Nike",
+      "category": "Fashion and Sports",
+      "price": 1700,
+      "original_price": 2995,
+      "rating": 4.4,
+      "review_count": 4230,
+      "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Polyester",
+        "Technology": "Dri-FIT",
+        "Fit": "Regular"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Nike Dri-FIT Sports T-shirt",
+      "brand": "Nike",
+      "category": "Fashion and Sports",
+      "price": 1630,
+      "original_price": 2995,
+      "rating": 4.4,
+      "review_count": 4230,
+      "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Polyester",
+        "Technology": "Dri-FIT",
+        "Fit": "Regular"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Nike Dri-FIT Sports T-shirt",
+      "brand": "Nike",
+      "category": "Fashion and Sports",
+      "price": 1699,
+      "original_price": 2995,
+      "rating": 4.4,
+      "review_count": 4230,
+      "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Polyester",
+        "Technology": "Dri-FIT",
+        "Fit": "Regular"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Nike Dri-FIT Sports T-shirt",
+      "brand": "Nike",
+      "category": "Fashion and Sports",
+      "price": 1500,
+      "original_price": 2995,
+      "rating": 4.4,
+      "review_count": 4230,
+      "image_url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Fabric": "Polyester",
+        "Technology": "Dri-FIT",
+        "Fit": "Regular"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Modern Velvet Accent Chair",
+      "brand": "Home Centre",
+      "category": "Furniture",
+      "price": 5900,
+      "original_price": 9999,
+      "rating": 4.1,
+      "review_count": 680,
+      "image_url": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Velvet and wood",
+        "Color": "Green",
+        "Assembly": "Minimal"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Modern Velvet Accent Chair",
+      "brand": "Home Centre",
+      "category": "Furniture",
+      "price": 5660,
+      "original_price": 9999,
+      "rating": 4.1,
+      "review_count": 680,
+      "image_url": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Velvet and wood",
+        "Color": "Green",
+        "Assembly": "Minimal"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Modern Velvet Accent Chair",
+      "brand": "Home Centre",
+      "category": "Furniture",
+      "price": 6370,
+      "original_price": 9999,
+      "rating": 4.1,
+      "review_count": 680,
+      "image_url": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Velvet and wood",
+        "Color": "Green",
+        "Assembly": "Minimal"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Modern Velvet Accent Chair",
+      "brand": "Home Centre",
+      "category": "Furniture",
+      "price": 5899,
+      "original_price": 9999,
+      "rating": 4.1,
+      "review_count": 680,
+      "image_url": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Velvet and wood",
+        "Color": "Green",
+        "Assembly": "Minimal"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Floating Wall Shelf Set",
+      "brand": "Casa Decor",
+      "category": "Furniture and Home",
+      "price": 900,
+      "original_price": 1799,
+      "rating": 4.0,
+      "review_count": 2110,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Pieces": "3",
+        "Mounting": "Wall mount"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Floating Wall Shelf Set",
+      "brand": "Casa Decor",
+      "category": "Furniture and Home",
+      "price": 860,
+      "original_price": 1799,
+      "rating": 4.0,
+      "review_count": 2110,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Pieces": "3",
+        "Mounting": "Wall mount"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Floating Wall Shelf Set",
+      "brand": "Casa Decor",
+      "category": "Furniture and Home",
+      "price": 970,
+      "original_price": 1799,
+      "rating": 4.0,
+      "review_count": 2110,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Pieces": "3",
+        "Mounting": "Wall mount"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Floating Wall Shelf Set",
+      "brand": "Casa Decor",
+      "category": "Furniture and Home",
+      "price": 899,
+      "original_price": 1799,
+      "rating": 4.0,
+      "review_count": 2110,
+      "image_url": "https://images.unsplash.com/photo-1594620302200-9a762244a156?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Engineered wood",
+        "Pieces": "3",
+        "Mounting": "Wall mount"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Decorative LED Table Lamp",
+      "brand": "Homesake",
+      "category": "Home Decor",
+      "price": 700,
+      "original_price": 1299,
+      "rating": 4.2,
+      "review_count": 3890,
+      "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Light": "Warm white",
+        "Power": "5 W",
+        "Switch": "Inline"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Decorative LED Table Lamp",
+      "brand": "Homesake",
+      "category": "Home Decor",
+      "price": 670,
+      "original_price": 1299,
+      "rating": 4.2,
+      "review_count": 3890,
+      "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Light": "Warm white",
+        "Power": "5 W",
+        "Switch": "Inline"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Decorative LED Table Lamp",
+      "brand": "Homesake",
+      "category": "Home Decor",
+      "price": 750,
+      "original_price": 1299,
+      "rating": 4.2,
+      "review_count": 3890,
+      "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Light": "Warm white",
+        "Power": "5 W",
+        "Switch": "Inline"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Decorative LED Table Lamp",
+      "brand": "Homesake",
+      "category": "Home Decor",
+      "price": 699,
+      "original_price": 1299,
+      "rating": 4.2,
+      "review_count": 3890,
+      "image_url": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Light": "Warm white",
+        "Power": "5 W",
+        "Switch": "Inline"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Stainless Steel Kitchen Rack",
+      "brand": "Generic",
+      "category": "Kitchen and Home",
+      "price": 1200,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 2640,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Stainless steel",
+        "Shelves": "3",
+        "Use": "Countertop"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Stainless Steel Kitchen Rack",
+      "brand": "Generic",
+      "category": "Kitchen and Home",
+      "price": 1150,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 2640,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Stainless steel",
+        "Shelves": "3",
+        "Use": "Countertop"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Stainless Steel Kitchen Rack",
+      "brand": "Generic",
+      "category": "Kitchen and Home",
+      "price": 1290,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 2640,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Stainless steel",
+        "Shelves": "3",
+        "Use": "Countertop"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Stainless Steel Kitchen Rack",
+      "brand": "Generic",
+      "category": "Kitchen and Home",
+      "price": 1199,
+      "original_price": 2499,
+      "rating": 4.1,
+      "review_count": 2640,
+      "image_url": "https://images.unsplash.com/photo-1556911220-bff31c812dba?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Stainless steel",
+        "Shelves": "3",
+        "Use": "Countertop"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Cotton Printed Bedsheet Set",
+      "brand": "Divine Casa",
+      "category": "Home Furnishing",
+      "price": 800,
+      "original_price": 1599,
+      "rating": 4.3,
+      "review_count": 8420,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Cotton",
+        "Size": "King",
+        "Pieces": "3"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Cotton Printed Bedsheet Set",
+      "brand": "Divine Casa",
+      "category": "Home Furnishing",
+      "price": 770,
+      "original_price": 1599,
+      "rating": 4.3,
+      "review_count": 8420,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Cotton",
+        "Size": "King",
+        "Pieces": "3"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Cotton Printed Bedsheet Set",
+      "brand": "Divine Casa",
+      "category": "Home Furnishing",
+      "price": 860,
+      "original_price": 1599,
+      "rating": 4.3,
+      "review_count": 8420,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Cotton",
+        "Size": "King",
+        "Pieces": "3"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Cotton Printed Bedsheet Set",
+      "brand": "Divine Casa",
+      "category": "Home Furnishing",
+      "price": 799,
+      "original_price": 1599,
+      "rating": 4.3,
+      "review_count": 8420,
+      "image_url": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Cotton",
+        "Size": "King",
+        "Pieces": "3"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Women Everyday Sling Bag",
+      "brand": "Diana Korr",
+      "category": "Fashion and Accessories",
+      "price": 500,
+      "original_price": 999,
+      "rating": 4.0,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Faux leather",
+        "Compartments": "2",
+        "Closure": "Zip"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Women Everyday Sling Bag",
+      "brand": "Diana Korr",
+      "category": "Fashion and Accessories",
+      "price": 480,
+      "original_price": 999,
+      "rating": 4.0,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Faux leather",
+        "Compartments": "2",
+        "Closure": "Zip"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Women Everyday Sling Bag",
+      "brand": "Diana Korr",
+      "category": "Fashion and Accessories",
+      "price": 540,
+      "original_price": 999,
+      "rating": 4.0,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Faux leather",
+        "Compartments": "2",
+        "Closure": "Zip"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Women Everyday Sling Bag",
+      "brand": "Diana Korr",
+      "category": "Fashion and Accessories",
+      "price": 499,
+      "original_price": 999,
+      "rating": 4.0,
+      "review_count": 5310,
+      "image_url": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Material": "Faux leather",
+        "Compartments": "2",
+        "Closure": "Zip"
+      }
+    },
+    {
+      "platform": "Amazon",
+      "product_name": "Portable Bluetooth Speaker",
+      "brand": "MZ",
+      "category": "Gadgets",
+      "price": 900,
+      "original_price": 1999,
+      "rating": 4.1,
+      "review_count": 2940,
+      "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "8 hours",
+        "Water resistance": "IPX5"
+      }
+    },
+    {
+      "platform": "Flipkart",
+      "product_name": "Portable Bluetooth Speaker",
+      "brand": "MZ",
+      "category": "Gadgets",
+      "price": 860,
+      "original_price": 1999,
+      "rating": 4.1,
+      "review_count": 2940,
+      "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "8 hours",
+        "Water resistance": "IPX5"
+      }
+    },
+    {
+      "platform": "Myntra",
+      "product_name": "Portable Bluetooth Speaker",
+      "brand": "MZ",
+      "category": "Gadgets",
+      "price": 970,
+      "original_price": 1999,
+      "rating": 4.1,
+      "review_count": 2940,
+      "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "8 hours",
+        "Water resistance": "IPX5"
+      }
+    },
+    {
+      "platform": "Meesho",
+      "product_name": "Portable Bluetooth Speaker",
+      "brand": "MZ",
+      "category": "Gadgets",
+      "price": 899,
+      "original_price": 1999,
+      "rating": 4.1,
+      "review_count": 2940,
+      "image_url": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=900&q=80",
+      "availability": "In Stock",
+      "specifications": {
+        "Connectivity": "Bluetooth 5.0",
+        "Battery": "8 hours",
+        "Water resistance": "IPX5"
+      }
+    }
+  ],
+  "search_config": {
+    "search_across_platforms": true,
+    "platforms": [
+      "Amazon",
+      "Flipkart",
+      "Myntra",
+      "Meesho"
+    ],
+    "product_count": 30,
+    "marketplace_results_per_product": 4,
+    "total_demo_results": 120,
+    "matching": {
+      "product_name": true,
+      "brand": true,
+      "category": true,
+      "specifications": true
+    },
+    "result_behavior": "For any product search, combine matching results from Amazon, Flipkart, Myntra, and Meesho into one result list.",
+    "sorting": [
+      "relevance",
+      "price_low_to_high",
+      "price_high_to_low",
+      "rating_high_to_low"
+    ],
+    "filters": [
+      "platform",
+      "price",
+      "brand",
+      "category",
+      "rating",
+      "availability"
+    ],
+    "data_note": "Marketplace records are demonstration data. Replace with official or permitted marketplace APIs for live production results."
+  }
+}

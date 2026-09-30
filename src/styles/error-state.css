@@ -1,0 +1,93 @@
+.error-page {
+  min-height: 100vh;
+  background: radial-gradient(circle at 50% 12%, rgba(184, 242, 124, .32), transparent 24rem), #f6f8f4;
+}
+
+.error-state {
+  width: min(680px, calc(100% - 40px));
+  margin: 8vh auto 0;
+  padding: 56px 52px 48px;
+  text-align: center;
+  border: 1px solid rgba(32, 41, 39, .1);
+  border-radius: 28px;
+  background: rgba(255, 255, 255, .68);
+  box-shadow: 0 24px 70px rgba(32, 41, 39, .08);
+  animation: error-arrival .55s ease both;
+}
+
+.error-icon {
+  width: 58px;
+  height: 58px;
+  margin: 0 auto 24px;
+  display: grid;
+  place-items: center;
+  border-radius: 18px;
+  color: #9b542c;
+  background: #ffeadf;
+  box-shadow: 0 0 0 8px rgba(255, 234, 223, .58);
+}
+
+.error-state .eyebrow {
+  justify-content: center;
+  color: #9b542c;
+}
+
+.error-state h1 {
+  margin: 18px 0 14px;
+  color: var(--ink);
+  font: 700 clamp(36px, 5vw, 58px)/1.04 'Space Grotesk';
+  letter-spacing: -.045em;
+}
+
+.error-state h1 span { color: #6f9160; }
+
+.error-state > p {
+  max-width: 440px;
+  margin: 0 auto;
+  color: var(--muted);
+  font-size: 16px;
+}
+
+.error-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 18px;
+  margin-top: 30px;
+}
+
+.quiet-button {
+  padding: 12px 4px;
+  color: var(--ink);
+  background: transparent;
+  font-weight: 700;
+  border-bottom: 1px solid rgba(32, 41, 39, .35);
+}
+
+.quiet-button:hover { color: #6f9160; border-color: #6f9160; }
+
+.error-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 9px;
+  max-width: 410px;
+  margin: 34px auto 0;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 12px;
+  text-align: left;
+}
+
+.error-note svg { flex: 0 0 auto; color: #6f9160; }
+
+@keyframes error-arrival {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 560px) {
+  .error-state { margin-top: 3vh; padding: 42px 24px 32px; }
+  .error-actions { flex-direction: column; gap: 16px; }
+  .error-actions .primary { width: 100%; }
+}
